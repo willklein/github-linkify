@@ -16,7 +16,6 @@
     "default_icon": "images/icon-16.png"
   },
   "permissions": [
-    "declarativeContent",
-    "https://*.github.io"
+    "declarativeContent"
   ]
 }
