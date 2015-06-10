@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "GitHub Repo Link",
+    "message": "GitHub Linkify",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Adds a link to the GitHub repo from any GitHub Pages site.",
+    "message": "Displays a link to GitHub profiles and repos from GitHub Pages.",
     "description": "The description of the application"
   }
 }
