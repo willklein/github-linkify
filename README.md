@@ -12,3 +12,13 @@ GitHub Pages are usually hosted on the github.io domain. Whenever you visit some
 ### Caveats
 
 If the directory is actually a directory, the link will be incorrect. I'm working on adding GitHub API requests to verify that the directory corresponds to a repo or not.
+
+## Other GitHub extensions
+
+Here are some other GitHub-oriented extensions in the wild.
+
+* [Octotree](https://github.com/buunguyen/octotree)
+* [GitHub Notifier](https://github.com/sindresorhus/github-notifier-chrome)
+* [GitHub Tab Size](https://github.com/sindresorhus/github-tab-size)
+* [GitHub Hide Files](https://github.com/sindresorhus/github-hide-files)
+* [GitHub Markdown Menu](https://github.com/willklein/github-markdown-menu)
